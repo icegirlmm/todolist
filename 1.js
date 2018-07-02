@@ -8,6 +8,7 @@ function postaction() {
             "title": title.value,
             "done": false
         };
+        //面向字定义对象
         //使用JSON的形式来表示todo对象
         //（todo具有title和done属性）
         //第一个属性用于存储用户输入的数据 
